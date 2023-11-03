@@ -11,8 +11,8 @@ This will allow John to maximize his profits
 👇🏾👇🏾
 
 Run `python factory.py`
+<iframe src="https://player.vimeo.com/video/880722433?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="1920" height="1008" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="factory"></iframe>
 
-![](factory.mp4)
 
 # Problem 2 Solution
 
@@ -27,5 +27,4 @@ Run `python factory.py`
 👇🏾👇🏾
 
 Run `python goodies.py`
-
-![](goodies.mp4)
+<iframe src="https://player.vimeo.com/video/880722653?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="1920" height="1008" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="goodies"></iframe>
